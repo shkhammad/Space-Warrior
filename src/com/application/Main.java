@@ -7,7 +7,6 @@ package com.application;
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 import javax.swing.WindowConstants;
-
 import com.game.Game;
 
 public class Main extends JFrame{

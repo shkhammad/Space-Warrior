@@ -1,9 +1,12 @@
+/** 
+	@author Hammad Shaikh
+**/
+
 package com.controller;
 
 import java.awt.Graphics2D;
 import java.util.ArrayList;
 import java.util.List;
-
 import com.sprite.Boss;
 
 public class BossController {

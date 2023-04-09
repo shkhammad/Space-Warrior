@@ -9,11 +9,9 @@ import java.awt.Graphics2D;
 import java.awt.Image;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
 import javax.swing.ImageIcon;
 import javax.swing.JPanel;
 import javax.swing.Timer;
-
 import com.controller.BossController;
 import com.controller.Controller;
 import com.eventhandler.KeyInput;

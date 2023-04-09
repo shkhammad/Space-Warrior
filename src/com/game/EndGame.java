@@ -1,3 +1,7 @@
+/** 
+	@author Hammad Shaikh
+**/
+
 package com.game;
 
 import java.awt.Color;
@@ -5,9 +9,7 @@ import java.awt.Font;
 import java.awt.Graphics2D;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
-
 import com.state.State;
-
 
 public class EndGame extends KeyAdapter{
 	
@@ -30,5 +32,4 @@ public class EndGame extends KeyAdapter{
 		if(e.getKeyCode() == KeyEvent.VK_SPACE) 
 			Game.state = State.RESPAWN;
 	}
-	
 }

@@ -1,9 +1,12 @@
+/** 
+	@author Hammad Shaikh
+**/
+
 package com.game;
 
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics2D;
-
 import com.sprite.Boss;
 import com.sprite.Enemy;
 
@@ -32,5 +35,4 @@ public class ScorePanel {
 		g2d.drawString(Integer.toString(Math.max(score, Enemy.getDodges() + Boss.getDodges())), 130, 25);
 			
 	}
-	
 }

@@ -119,6 +119,5 @@ public class Player extends GlobalPosition {
 		ImageIcon i = new ImageIcon(getClass().getResource(playerimage));
 		return i.getImage(); 
 	}
-
  }
 

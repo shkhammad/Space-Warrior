@@ -1,10 +1,13 @@
+/** 
+	@author Hammad Shaikh
+**/
+
 package com.sprite;
 
 import java.awt.Graphics2D;
 import java.awt.Image;
 import java.awt.Rectangle;
 import java.util.Random;
-
 import javax.swing.ImageIcon;
 
 public class Boss extends GlobalPosition{
