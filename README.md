@@ -7,7 +7,7 @@ quest in the endless realm
 
  - The game ends when both collide and the total score is displayed. 
  
- - Play it again and see if you can set your highest score.
+ - Challenge yourself to beat your best score.
  
  - More levels and bosses will be added in the future :)
  
