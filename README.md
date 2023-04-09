@@ -5,9 +5,9 @@
  - The player needs to dodge the incoming asteroids to continue their
 quest in the endless realm
 
- - The game ends when both collide and the total score is displayed. 
+ - The game ends when both collide and the total score is displayed
  
- - Challenge yourself to beat your best score.
+ - Challenge yourself to beat your best score
  
  - More levels and bosses will be added in the future :)
  
