@@ -9,6 +9,8 @@ quest in the endless realm
  
  - Play it again and see if you can set your highest score.
  
+ - More levels and bosses will be added in the future :)
+ 
  
  ![image](https://user-images.githubusercontent.com/55096761/230786691-6cb1ccf7-2b29-432a-ad2a-e8fe0be11d7e.png)
  
